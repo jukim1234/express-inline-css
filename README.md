@@ -1,4 +1,6 @@
 # express-inline-css
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jlopezxs/express-inline-css.svg)](https://greenkeeper.io/)
 > :zap: Express middleware to generate inline critical rendering CSS to improve render performance
 
 ## Installation
